@@ -1,0 +1,14 @@
+#send {
+  margin-left: 10px;
+}
+ul li {
+  margin-left: 10px;
+  padding: 10px;
+}
+button {
+  width: 50%;
+}
+#delete {
+  width: 30%;
+  margin-left: 20px;
+}
